@@ -1,0 +1,67 @@
+| Activity ID | Activity Name | Roles | Resources |
+|---|---|---|---|
+| A1 | Conduct Site Surveys | Surveyor, Environmental Specialist | Surveying equipment, GPS, environmental monitoring tools |
+| A2 | Analyze Soil Conditions | Geotechnical Engineer | Soil testing equipment, laboratory analysis |
+| A3 | Evaluate Environmental Factors | Environmental Specialist | Environmental impact assessment tools, data analysis software |
+| B1 | Develop Conceptual Master Plan | Architect, Urban Planner | Design software, collaboration tools |
+| B2 | Incorporate Sustainability Principles | Sustainability Consultant, Architect | Sustainability guidelines, building codes |
+| B3 | Design Transportation System | Transportation Engineer | Traffic modeling software, CAD software |
+| C1 | Estimate Energy Demand | Energy Engineer | Energy modeling software, building data |
+| C2 | Estimate Water Demand | Water Engineer | Water demand forecasting tools, population data |
+| C3 | Evaluate Renewable Energy Options | Renewable Energy Specialist | Renewable energy assessment tools, market data |
+| D1 | Conduct Technical Feasibility Analysis | Engineer | Technical specifications, feasibility study templates |
+| D2 | Conduct Economic Feasibility Analysis | Financial Analyst | Financial modeling software, cost data |
+| D3 | Conduct Environmental Impact Assessment | Environmental Specialist | Environmental impact assessment guidelines, data analysis software |
+| E1 | Clear and Grub Site | Construction Crew | Excavators, bulldozers, chainsaws |
+| E2 | Grade Site | Construction Crew | Graders, compactors |
+| E3 | Excavate Foundation | Construction Crew | Excavators, backhoes, shoring equipment |
+| F1 | Procure Building Materials | Procurement Manager | Purchase orders, supplier contracts |
+| F2 | Construct Building Foundations | Construction Crew, Concrete Workers | Concrete mixers, formwork, rebar |
+| F3 | Erect Building Structure | Construction Crew, Steel Workers | Cranes, welding equipment, steel beams |
+| F4 | Install MEP Systems | MEP Contractors | Piping, wiring, HVAC equipment |
+| F5 | Finish Building Interiors | Interior Designers, Carpenters, Painters | Finishing materials, tools |
+| G1 | Excavate River and Lake Beds | Construction Crew | Excavators, dredging equipment |
+| G2 | Install River and Lake Liners | Construction Crew | Liners, geotextiles, installation tools |
+| G3 | Fill River and Lake Beds | Construction Crew | Fill materials, compactors |
+| G4 | Landscape River and Lake Areas | Landscape Architects, Gardeners | Plants, irrigation systems, landscaping tools |
+| I1 | Construct Roads | Construction Crew, Paving Contractors | Asphalt pavers, rollers, road construction equipment |
+| I2 | Construct Walkways and Bike Paths | Construction Crew | Concrete mixers, paving stones, landscaping tools |
+| I3 | Install Public Transit Infrastructure | Construction Crew, Electrical Contractors | Rail tracks, electrical wiring, signaling equipment |
+| J1 | Assess Solar Panel Site Suitability | Solar Panel Engineer | Site assessment tools, solar irradiance data |
+| J2 | Select Optimal Solar Panel Locations | Solar Panel Engineer | Solar design software, site plans |
+| K1 | Procure Solar Panels | Procurement Manager | Purchase orders, supplier contracts |
+| K2 | Install Solar Panels | Solar Panel Installers | Mounting hardware, wiring, electrical tools |
+| K3 | Connect Solar Panels to Inverters | Electricians | Wiring, connectors, electrical testing equipment |
+| L1 | Procure Inverters | Procurement Manager | Purchase orders, supplier contracts |
+| L2 | Install Inverters | Electricians | Mounting hardware, wiring, electrical tools |
+| L3 | Install Electrical Wiring | Electricians | Wiring, conduit, electrical testing equipment |
+| M1 | Procure Battery Storage Systems | Procurement Manager | Purchase orders, supplier contracts |
+| M2 | Install Battery Storage Systems | Battery Storage Technicians | Battery racks, wiring, electrical tools |
+| M3 | Integrate Battery Storage with Inverters | Electricians, Battery Storage Technicians | Wiring, connectors, control systems |
+| N1 | Obtain Grid Connection Permits | Project Manager | Permit applications, regulatory compliance documents |
+| N2 | Install Grid Connection Equipment | Electricians, Grid Connection Technicians | Transformers, switchgear, grid connection hardware |
+| N3 | Test Grid Connection | Electricians, Grid Connection Technicians | Electrical testing equipment, grid synchronization tools |
+| V1 | Test Solar Panel System | Solar Panel Engineer, Electricians | Electrical testing equipment, performance monitoring tools |
+| V2 | Test Inverter and Battery System | Electricians, Battery Storage Technicians | Electrical testing equipment, battery management systems |
+| V3 | Test Grid Integration | Grid Connection Technicians, Electricians | Grid synchronization tools, electrical testing equipment |
+| O1 | Design Water Treatment Plant | Water Treatment Engineer | Design software, water quality standards |
+| P1 | Develop Water Intake System | Water Engineer | Hydraulic modeling software, intake design specifications |
+| Q1 | Install Pre-Treatment Systems | Construction Crew, Water Treatment Technicians | Pre-treatment equipment, piping, valves |
+| R1 | Install Reverse Osmosis System | Water Treatment Technicians | Reverse osmosis membranes, pumps, control systems |
+| S1 | Install Post-Treatment Systems | Water Treatment Technicians | Post-treatment equipment, piping, valves |
+| T1 | Construct Water Distribution Network | Construction Crew, Pipefitters | Pipes, valves, water mains, excavation equipment |
+| W1 | Test Water Treatment Process | Water Quality Analyst | Water testing equipment, laboratory analysis |
+| H1 | Install Vertical Garden Structures | Construction Crew, Landscape Technicians | Vertical garden modules, irrigation systems, mounting hardware |
+| H2 | Plant Vertical Gardens | Landscape Technicians, Gardeners | Plants, soil, planting tools |
+| Y1 | Conduct Ecosystem Health Assessment | Ecologist | Environmental monitoring equipment, data analysis software |
+| Y2 | Implement Ecosystem Enhancements | Landscape Architects, Ecologists | Native plants, habitat restoration materials |
+| Z1 | Landscape Public Spaces | Landscape Architects, Gardeners | Plants, irrigation systems, landscaping tools |
+| U1 | Integrate Energy and Water Systems | Systems Engineer | Control systems, communication protocols |
+| U2 | Integrate Transportation System | Transportation Engineer, Systems Engineer | Traffic management systems, signaling systems |
+| X1 | Test Road Network | Transportation Engineer, Traffic Control Specialists | Traffic monitoring equipment, safety inspections |
+| X2 | Test Walkways and Bike Paths | Construction Inspector | Safety inspections, accessibility assessments |
+| X3 | Test Public Transit System | Transportation Engineer, Public Transit Specialists | Operational testing, safety inspections |
+| AA1 | Implement Safety Measures | Safety Officer, Construction Crew | Safety signage, barriers, personal protective equipment |
+| AB1 | Conduct Final Building Inspections | Building Inspector | Building codes, inspection checklists |
+| AC1 | Commission Eco-City Systems | Commissioning Engineer | System testing protocols, operational manuals |
+| AD1 | Develop Maintenance Plan | Maintenance Planner | Maintenance scheduling software, equipment manuals |
