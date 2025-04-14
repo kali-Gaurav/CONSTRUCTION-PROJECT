@@ -1,0 +1,31 @@
+Activity ID,Activity Name,Normal Duration (Weeks),Crash Duration (Weeks),Direct Costs ($M),Overhead/Indirect Costs ($M),Normal Cost ($M),Crash Cost ($M),Resource Demand (Workers)
+A,Site Assessment,2,1,0.02,0.003,0.023,0.025,5
+B,Master Plan Development,4,3,0.1,0.015,0.115,0.125,10
+C,Energy/Water Demand Estimation,2,1,0.01,0.002,0.012,0.014,5
+D,Feasibility Study,3,2,0.08,0.012,0.092,0.102,8
+E,Excavation and Earthworks,4,3,0.2,0.03,0.23,0.25,20
+F,Building Construction,24,20,500.0,75.0,575.0,575.2,50
+G,River and Lake Installation,6,5,1.75,0.26,2.01,2.03,15
+H,Vertical Garden Setup,8,6,1.0,0.15,1.15,1.17,10
+I,Transportation Facility Construction,8,6,2.0,0.3,2.3,2.32,15
+J,Solar Panel Site Selection,2,1,0.01,0.002,0.012,0.014,5
+K,Solar Panel Installation,8,6,5.0,0.75,5.75,5.79,20
+L,Inverter and Wiring Setup,4,3,0.1,0.015,0.115,0.125,10
+M,Battery Storage Integration,4,3,0.1,0.015,0.115,0.125,10
+N,Grid Connection,2,1,0.05,0.0075,0.0575,0.0625,5
+O,Water Treatment Plant Design,4,3,0.08,0.012,0.092,0.102,8
+P,Water Intake System,4,3,0.1,0.015,0.115,0.125,10
+Q,Pre-Treatment Installation,4,3,0.1,0.015,0.115,0.125,10
+R,Reverse Osmosis System,6,4,0.15,0.0225,0.1725,0.2025,15
+S,Post-Treatment and Storage,4,3,0.1,0.015,0.115,0.125,10
+T,Distribution Network,4,3,0.15,0.0225,0.1725,0.1825,15
+U,System Integration,4,3,0.2,0.03,0.23,0.25,20
+V,Initial Testing (Energy),2,1,0.01,0.002,0.012,0.014,5
+W,Initial Testing (Water),2,1,0.01,0.002,0.012,0.014,5
+X,Transportation Testing,2,1,0.01,0.002,0.012,0.014,5
+Y,Ecosystem Validation,4,3,0.1,0.015,0.115,0.125,10
+Z,Landscaping and Aesthetics,4,3,0.15,0.0225,0.1725,0.1825,15
+AA,Safety and Accessibility,2,1,0.01,0.002,0.012,0.014,5
+AB,Final Inspections,2,1,0.01,0.002,0.012,0.014,5
+AC,Commissioning,1,1,0.01,0.002,0.012,0.014,5
+AD,Maintenance Plan,2,1,0.01,0.002,0.012,0.014,5
