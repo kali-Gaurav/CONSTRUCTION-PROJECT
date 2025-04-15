@@ -1,0 +1,31 @@
+Activity ID,Activity Name,Normal Duration (Weeks),Crash Duration (Weeks),Direct Costs ($M),Overhead/Indirect Costs ($M),Normal Cost ($M),Crash Cost ($M),Resource Demand (Workers),Status,Update Date
+A,Site Assessment,2,1,0.02,0.003,0.023,0.025,5,Completed,2024-03-15
+B,Master Plan Development,4,3,0.1,0.015,0.115,0.125,10,Completed,2024-03-15
+C,Energy/Water Demand Estimation,2,1,0.01,0.002,0.012,0.014,5,Completed,2024-03-15
+D,Feasibility Study,3,2,0.08,0.012,0.092,0.102,8,Completed,2024-03-15
+E,Excavation and Earthworks,4,3,0.2,0.03,0.23,0.25,20,In Progress,2024-03-15
+F,Building Construction,24,20,500.0,75.0,575.0,575.2,50,In Progress,2024-03-15
+G,River and Lake Installation,6,5,1.75,0.26,2.01,2.03,15,In Progress,2024-03-15
+H,Vertical Garden Setup,8,6,1.0,0.15,1.15,1.17,10,In Progress,2024-03-15
+I,Transportation Facility Construction,8,6,2.0,0.3,2.3,2.32,15,In Progress,2024-03-15
+J,Solar Panel Site Selection,2,1,0.01,0.002,0.012,0.014,5,In Progress,2024-03-15
+K,Solar Panel Installation,8,6,5.0,0.75,5.75,5.79,20,In Progress,2024-03-15
+L,Inverter and Wiring Setup,4,3,0.1,0.015,0.115,0.125,10,In Progress,2024-03-15
+M,Battery Storage Integration,4,3,0.1,0.015,0.115,0.125,10,In Progress,2024-03-15
+N,Grid Connection,2,1,0.05,0.0075,0.0575,0.0625,5,In Progress,2024-03-15
+O,Water Treatment Plant Design,4,3,0.08,0.012,0.092,0.102,8,In Progress,2024-03-15
+P,Water Intake System,4,3,0.1,0.015,0.115,0.125,10,In Progress,2024-03-15
+Q,Pre-Treatment Installation,4,3,0.1,0.015,0.115,0.125,10,In Progress,2024-03-15
+R,Reverse Osmosis System,6,4,0.15,0.0225,0.1725,0.2025,15,In Progress,2024-03-15
+S,Post-Treatment and Storage,4,3,0.1,0.015,0.115,0.125,10,In Progress,2024-03-15
+T,Distribution Network,4,3,0.15,0.0225,0.1725,0.1825,15,In Progress,2024-03-15
+U,System Integration,4,3,0.2,0.03,0.23,0.25,20,In Progress,2024-03-15
+V,Initial Testing (Energy),2,1,0.01,0.002,0.012,0.014,5,In Progress,2024-03-15
+W,Initial Testing (Water),2,1,0.01,0.002,0.012,0.014,5,In Progress,2024-03-15
+X,Transportation Testing,2,1,0.01,0.002,0.012,0.014,5,In Progress,2024-03-15
+Y,Ecosystem Validation,4,3,0.1,0.015,0.115,0.125,10,In Progress,2024-03-15
+Z,Landscaping and Aesthetics,4,3,0.15,0.0225,0.1725,0.1825,15,In Progress,2024-03-15
+AA,Safety and Accessibility,2,1,0.01,0.002,0.012,0.014,5,In Progress,2024-03-15
+AB,Final Inspections,2,1,0.01,0.002,0.012,0.014,5,In Progress,2024-03-15
+AC,Commissioning,1,1,0.01,0.002,0.012,0.014,5,In Progress,2024-03-15
+AD,Maintenance Plan,2,1,0.01,0.002,0.012,0.014,5,In Progress,2024-03-15
