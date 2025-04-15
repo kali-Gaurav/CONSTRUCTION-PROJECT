@@ -3,64 +3,64 @@ A1,Conduct Site Surveys,1.1.1 Site Assessment,-,10,-,Surveyor(s),"GPS equipment,
 A2,Analyze Soil Conditions,1.1.1 Site Assessment,A1,7,FS,"Geotechnical Engineer(s), Lab Technician(s)","Soil testing equipment (e.g., penetrometer, shear vane), sampling tools, laboratory equipment for soil analysis."
 A3,Evaluate Environmental Factors,1.1.1 Site Assessment,A1,7,FS,Environmental Scientist(s),"Environmental monitoring equipment (e.g., water quality testers, air quality monitors), sampling containers, data logging tools."
 B1,Develop Conceptual Master Plan,1.1.2 Master Plan Development,"A2, A3",14,FS,"Urban Planner(s), Architect(s), Civil Engineer(s)","CAD software, GIS software, drafting tools, presentation materials."
-B2,Incorporate Sustainability Principles,1.1.2 Master Plan Development,B1,10,FS,"Sustainability Consultant(s), Environmental Engineer(s)",Sustainability assessment tools, relevant guidelines and standards documents.
+B2,Incorporate Sustainability Principles,1.1.2 Master Plan Development,B1,10,FS,"Sustainability Consultant(s), Environmental Engineer(s)","Sustainability assessment tools, relevant guidelines and standards documents."
 B3,Design Transportation System,1.1.2 Master Plan Development,B1,14,FS,"Transportation Engineer(s), Urban Planner(s)","Transportation planning software, CAD software, traffic analysis tools."
-C1,Estimate Energy Demand,1.1.3 Energy/Water Demand Estimation,B2,7,FS,Energy Engineer(s),Energy modeling software, historical energy consumption data.
-C2,Estimate Water Demand,1.1.3 Energy/Water Demand Estimation,B2,7,FS,Water Resource Engineer(s),Water demand projection methodologies, historical water consumption data.
-C3,Evaluate Renewable Energy Options,1.1.3 Energy/Water Demand Estimation,B2,7,FS,"Renewable Energy Specialist(s), Energy Engineer(s)",Renewable energy resource assessment data, feasibility study templates.
-D1,Conduct Technical Feasibility Analysis,1.1.4 Feasibility Study,"C1, C2, C3",10,FS,"Civil Engineer(s), Structural Engineer(s), MEP Engineer(s)",Engineering analysis software, relevant codes and standards.
-D2,Conduct Economic Feasibility Analysis,1.1.4 Feasibility Study,"C1, C2, C3",10,FS,"Economist(s), Financial Analyst(s)",Financial modeling software, cost data, market analysis reports.
-D3,Conduct Environmental Impact Assessment,1.1.4 Feasibility Study,"C1, C2, C3",10,FS,"Environmental Scientist(s), Ecologist(s)",EIA guidelines, environmental data, mapping software.
+C1,Estimate Energy Demand,1.1.3 Energy/Water Demand Estimation,B2,7,FS,Energy Engineer(s),"Energy modeling software, historical energy consumption data."
+C2,Estimate Water Demand,1.1.3 Energy/Water Demand Estimation,B2,7,FS,Water Resource Engineer(s),"Water demand projection methodologies, historical water consumption data."
+C3,Evaluate Renewable Energy Options,1.1.3 Energy/Water Demand Estimation,B2,7,FS,"Renewable Energy Specialist(s), Energy Engineer(s)","Renewable energy resource assessment data, feasibility study templates."
+D1,Conduct Technical Feasibility Analysis,1.1.4 Feasibility Study,"C1, C2, C3",10,FS,"Civil Engineer(s), Structural Engineer(s), MEP Engineer(s)","Engineering analysis software, relevant codes and standards."
+D2,Conduct Economic Feasibility Analysis,1.1.4 Feasibility Study,"C1, C2, C3",10,FS,"Economist(s), Financial Analyst(s)","Financial modeling software, cost data, market analysis reports."
+D3,Conduct Environmental Impact Assessment,1.1.4 Feasibility Study,"C1, C2, C3",10,FS,"Environmental Scientist(s), Ecologist(s)","EIA guidelines, environmental data, mapping software."
 E1,Clear and Grub Site,1.2.1 Earthworks and Foundations,"D1, D2, D3",7,FS,"Heavy Equipment Operator(s), Laborer(s)","Bulldozer, excavator, clearing equipment, trucks, safety equipment."
 E2,Grade Site,1.2.1 Earthworks and Foundations,E1,10,FS,"Heavy Equipment Operator(s), Surveyor(s)","Grader, bulldozer, leveling equipment, surveying instruments."
 E3,Excavate Foundation,1.2.1 Earthworks and Foundations,E2,14,FS,"Heavy Equipment Operator(s), Laborer(s)","Excavator, shoring equipment, soil disposal trucks, safety equipment."
-F1,Procure Building Materials,1.2.2 Building Construction,"D1, D2, D3",21,FS,Procurement Specialist(s),Procurement software, supplier databases, communication tools.
+F1,Procure Building Materials,1.2.2 Building Construction,"D1, D2, D3",21,FS,Procurement Specialist(s),"Procurement software, supplier databases, communication tools."
 F2,Construct Building Foundations,1.2.2 Building Construction,"E3, F1",28,FS,"Construction Foreman, Carpenter(s), Concrete Worker(s), Laborer(s)","Formwork, concrete mixing equipment, reinforcement steel, pouring equipment, safety equipment."
 F3,Erect Building Structure,1.2.2 Building Construction,F2,42,FS,"Construction Foreman, Steel Erector(s), Crane Operator(s), Ironworker(s)","Crane, steel beams and columns, welding equipment, bolting tools, safety equipment."
 F4,Install MEP Systems,1.2.2 Building Construction,F3,35,FS,"Mechanical Engineer(s), Electrical Engineer(s), Plumber(s), HVAC Technician(s)","Ductwork, pipes, wiring, electrical panels, HVAC units, installation tools, safety equipment."
 F5,Finish Building Interiors,1.2.2 Building Construction,F4,28,FS,"Interior Designer(s), Carpenter(s), Painter(s), Flooring Installer(s)","Finishing materials (drywall, paint, flooring), tools for installation, safety equipment."
 G1,Excavate River and Lake Beds,1.2.3 River and Lake Installation,E3,21,FS,"Heavy Equipment Operator(s), Dredging Crew","Excavator, dredge, earthmoving equipment, trucks, safety equipment."
 G2,Install River and Lake Liners,1.2.3 River and Lake Installation,G1,14,FS,"Liner Installation Crew, Seam Welder(s)","Geomembrane liners, welding equipment, seaming tools, safety equipment."
-G3,Fill River and Lake Beds,1.2.3 River and Lake Installation,G2,14,FS,"Heavy Equipment Operator(s), Material Handler(s)",Fill material, trucks, compaction equipment.
+G3,Fill River and Lake Beds,1.2.3 River and Lake Installation,G2,14,FS,"Heavy Equipment Operator(s), Material Handler(s)","Fill material, trucks, compaction equipment."
 G4,Landscape River and Lake Areas,1.2.3 River and Lake Installation,G3,21,FS,"Landscape Architect(s), Gardener(s), Laborer(s)","Plants, soil, mulch, landscaping tools, irrigation system components."
 I1,Construct Roads,1.2.4 Transportation Facility Construction,E3,28,FS,"Road Construction Crew, Paving Crew","Graders, pavers, compactors, asphalt, concrete."
 I2,Construct Walkways and Bike Paths,1.2.4 Transportation Facility Construction,E3,21,FS,"Paving Crew, Landscaping Crew","Pavers, concrete mixers, landscaping tools, signage."
 I3,Install Public Transit Infrastructure,1.2.4 Transportation Facility Construction,E3,35,FS,"Civil Engineers, Construction Crew, Electrical Technicians","Construction equipment, electrical wiring, signaling equipment, station building materials."
-J1,Assess Solar Panel Site Suitability,1.3.1 Solar Panel Site Selection,B3,7,FS,Solar Energy Analyst,Site assessment tools, GIS software, environmental data.
-J2,Select Optimal Solar Panel Locations,1.3.1 Solar Panel Site Selection,J1,7,FS,Solar Energy Engineer,CAD software, solar modeling software.
-K1,Procure Solar Panels,1.3.2 Solar Panel Installation,J2,14,FS,Procurement Specialist,Supplier databases, procurement software.
+J1,Assess Solar Panel Site Suitability,1.3.1 Solar Panel Site Selection,B3,7,FS,Solar Energy Analyst,"Site assessment tools, GIS software, environmental data."
+J2,Select Optimal Solar Panel Locations,1.3.1 Solar Panel Site Selection,J1,7,FS,Solar Energy Engineer,"CAD software, solar modeling software."
+K1,Procure Solar Panels,1.3.2 Solar Panel Installation,J2,14,FS,Procurement Specialist,"Supplier databases, procurement software."
 K2,Install Solar Panels,1.3.2 Solar Panel Installation,K1,21,FS,"Solar Panel Installers, Electricians","Solar panels, mounting structures, installation tools, safety equipment."
-K3,Connect Solar Panels to Inverters,1.3.2 Solar Panel Installation,K2,7,FS,Electricians,Wiring, connectors, testing equipment.
-L1,Procure Inverters,1.3.3 Inverter and Wiring Setup,K3,10,FS,Procurement Specialist,Supplier databases, procurement software.
-L2,Install Inverters,1.3.3 Inverter and Wiring Setup,L1,7,FS,Electricians,Inverters, mounting equipment, testing tools.
-L3,Install Electrical Wiring,1.3.3 Inverter and Wiring Setup,L2,14,FS,Electricians,Wiring, conduits, electrical tools, safety equipment.
-M1,Procure Battery Storage Systems,1.3.4 Battery Storage Integration,L3,10,FS,Procurement Specialist,Supplier databases, procurement software.
+K3,Connect Solar Panels to Inverters,1.3.2 Solar Panel Installation,K2,7,FS,Electricians,"Wiring, connectors, testing equipment."
+L1,Procure Inverters,1.3.3 Inverter and Wiring Setup,K3,10,FS,Procurement Specialist,"Supplier databases, procurement software."
+L2,Install Inverters,1.3.3 Inverter and Wiring Setup,L1,7,FS,Electricians,"Inverters, mounting equipment, testing tools."
+L3,Install Electrical Wiring,1.3.3 Inverter and Wiring Setup,L2,14,FS,Electricians,"Wiring, conduits, electrical tools, safety equipment."
+M1,Procure Battery Storage Systems,1.3.4 Battery Storage Integration,L3,10,FS,Procurement Specialist,"Supplier databases, procurement software."
 M2,Install Battery Storage Systems,1.3.4 Battery Storage Integration,M1,7,FS,"Battery Technicians, Electricians","Batteries, racks, connection cables, safety equipment."
-M3,Integrate Battery Storage with Inverters,1.3.4 Battery Storage Integration,M2,7,FS,Electricians,Wiring, control systems, testing equipment.
-N1,Obtain Grid Connection Permits,1.3.5 Grid Connection,M3,14,FS,Permitting Specialist,Legal documents, application forms.
+M3,Integrate Battery Storage with Inverters,1.3.4 Battery Storage Integration,M2,7,FS,Electricians,"Wiring, control systems, testing equipment."
+N1,Obtain Grid Connection Permits,1.3.5 Grid Connection,M3,14,FS,Permitting Specialist,"Legal documents, application forms."
 N2,Install Grid Connection Equipment,1.3.5 Grid Connection,N1,14,FS,"Electrical Engineers, Linemen","Transformers, switchgear, connection cables, safety equipment."
 N3,Test Grid Connection,1.3.5 Grid Connection,N2,7,FS,"Electrical Engineers, Testing Technicians","Testing equipment, safety protocols."
-V1,Test Solar Panel System,1.3.6 Initial Testing (Energy),N3,3,FS,Testing Technician,Testing equipment, safety gear.
-V2,Test Inverter and Battery System,1.3.6 Initial Testing (Energy),N3,3,FS,Testing Technician,Testing equipment, safety gear.
-V3,Test Grid Integration,1.3.6 Initial Testing (Energy),N3,3,FS,Testing Technician,Testing equipment, safety gear.
-O1,Design Water Treatment Plant,1.4.1 Water Treatment Plant Design,"D1, D2, D3",21,FS,Chemical Engineer,CAD software, process simulation software.
-P1,Develop Water Intake System,1.4.2 Water Intake System,O1,14,FS,Hydraulic Engineer,CAD software, hydrological data.
+V1,Test Solar Panel System,1.3.6 Initial Testing (Energy),N3,3,FS,Testing Technician,"Testing equipment, safety gear."
+V2,Test Inverter and Battery System,1.3.6 Initial Testing (Energy),N3,3,FS,Testing Technician,"Testing equipment, safety gear."
+V3,Test Grid Integration,1.3.6 Initial Testing (Energy),N3,3,FS,Testing Technician,"Testing equipment, safety gear."
+O1,Design Water Treatment Plant,1.4.1 Water Treatment Plant Design,"D1, D2, D3",21,FS,Chemical Engineer,"CAD software, process simulation software."
+P1,Develop Water Intake System,1.4.2 Water Intake System,O1,14,FS,Hydraulic Engineer,"CAD software, hydrological data."
 Q1,Install Pre-Treatment Systems,1.4.3 Pre-Treatment Installation,P1,14,FS,"Construction Crew, Mechanical Installers","Pipes, tanks, filters, installation tools."
 R1,Install Reverse Osmosis System,1.4.4 Reverse Osmosis System,Q1,21,FS,"Mechanical Installers, Technicians","RO membranes, pumps, pressure vessels, installation tools."
 S1,Install Post-Treatment Systems,1.4.5 Post-Treatment and Storage,R1,14,FS,"Mechanical Installers, Chemical Handlers","Storage tanks, disinfection equipment, chemical dosing systems."
 T1,Construct Water Distribution Network,1.4.6 Distribution Network,"S1, G4",21,FS,"Pipefitters, Construction Crew","Pipes, valves, trenching equipment."
-W1,Test Water Treatment Process,1.4.7 Initial Testing (Water),T1,3,FS,Process Engineer,Testing equipment, water quality analysis tools.
+W1,Test Water Treatment Process,1.4.7 Initial Testing (Water),T1,3,FS,Process Engineer,"Testing equipment, water quality analysis tools."
 H1,Install Vertical Garden Structures,1.5.1 Vertical Garden Setup,F5,14,FS,"Construction Crew, Landscapers","Structures, framing, tools."
-H2,Plant Vertical Gardens,1.5.1 Vertical Garden Setup,H1,14,FS,Gardeners,Plants, soil, irrigation systems.
-Y1,Conduct Ecosystem Health Assessment,1.5.2 Ecosystem Validation,"T1, H2",14,FS,Ecologist,Monitoring equipment, data analysis software.
+H2,Plant Vertical Gardens,1.5.1 Vertical Garden Setup,H1,14,FS,Gardeners,"Plants, soil, irrigation systems."
+Y1,Conduct Ecosystem Health Assessment,1.5.2 Ecosystem Validation,"T1, H2",14,FS,Ecologist,"Monitoring equipment, data analysis software."
 Y2,Implement Ecosystem Enhancements,1.5.2 Ecosystem Validation,Y1,14,FS,"Ecologists, Landscapers","Planting materials, habitat restoration tools."
 Z1,Landscape Public Spaces,1.5.3 Landscaping and Aesthetics,"G4, Y2",21,FS,"Landscape Architects, Gardeners","Plants, hardscaping materials, landscaping equipment."
 U1,Integrate Energy and Water Systems,1.6.1 System Integration,"V3, W1",14,FS,"Systems Integrator, Engineers","Control systems, communication networks."
 U2,Integrate Transportation System,1.6.1 System Integration,I3,14,FS,"Transportation Engineers, Systems Integrators","Traffic management systems, signaling systems."
-X1,Test Road Network,1.6.2 Transportation Testing,"I1, U2",7,FS,Traffic Engineer,Testing equipment, safety gear.
-X2,Test Walkways and Bike Paths,1.6.2 Transportation Testing,"I2, U2",7,FS,Transportation Planner,Testing equipment, safety gear.
+X1,Test Road Network,1.6.2 Transportation Testing,"I1, U2",7,FS,Traffic Engineer,"Testing equipment, safety gear."
+X2,Test Walkways and Bike Paths,1.6.2 Transportation Testing,"I2, U2",7,FS,Transportation Planner,"Testing equipment, safety gear."
 X3,Test Public Transit System,1.6.2 Transportation Testing,"I3, U2",7,FS,"Transit Engineer, Testing Crew","Testing equipment, safety protocols."
-AA1,Implement Safety Measures,1.7.1 Safety and Accessibility,"F5, I3, Z1",7,FS,Safety Officer,Safety equipment, signage.
+AA1,Implement Safety Measures,1.7.1 Safety and Accessibility,"F5, I3, Z1",7,FS,Safety Officer,"Safety equipment, signage."
 AB1,Conduct Final Building Inspections,1.7.2 Final Inspections,"U1, V3, W1, X1, X2, X3, AA1",7,FS,"Inspectors, Engineers","Inspection tools, checklists."
 AC1,Commission Eco-City Systems,1.7.3 Commissioning,AB1,7,FS,"Commissioning Team, Engineers","Testing equipment, control systems."
-AD1,Develop Maintenance Plan,1.7.4 Maintenance Plan,AC1,14,FS,"Maintenance Planners, Engineers",Maintenance software, documentation templates.
+AD1,Develop Maintenance Plan,1.7.4 Maintenance Plan,AC1,14,FS,"Maintenance Planners, Engineers","Maintenance software, documentation templates."
