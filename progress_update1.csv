@@ -1,31 +1,31 @@
 Activity ID,Activity Name,Normal Duration (Days),Crash Duration (Weeks),Direct Costs ($M),Overhead/Indirect Costs ($M),Normal Cost ($M),Crash Cost ($M),Resource Demand (Workers),depends,duration_days,early_start,early_finish,Status,Update Date
-A,Site Assessment,24,1,0.02,0.003,0.023,0.025,5,[],24,2024-03-01,2024-03-25,Completed,2024-03-15
-B,Master Plan Development,38,3,0.1,0.015,0.115,0.125,10,['A'],38,2024-03-01,2024-04-08,Completed,2024-03-15
-C,Energy/Water Demand Estimation,21,1,0.01,0.002,0.012,0.014,5,['B'],21,2024-03-01,2024-03-22,Completed,2024-03-15
-D,Feasibility Study,30,2,0.08,0.012,0.092,0.102,8,['B'],30,2024-03-01,2024-03-31,In Progress,2024-03-15
-E,Excavation and Earthworks,31,3,0.2,0.03,0.23,0.25,20,['D'],31,2024-03-01,2024-04-01,In Progress,2024-03-15
-F,Building Construction,154,20,500.0,75.0,575.0,575.2,50,['E'],154,2024-03-01,2024-08-02,In Progress,2024-03-15
-G,River and Lake Installation,70,5,1.75,0.26,2.01,2.03,15,['E'],70,2024-03-01,2024-05-10,In Progress,2024-03-15
-H,Vertical Garden Setup,84,6,1.0,0.15,1.15,1.17,10,['F'],84,2024-03-01,2024-05-24,In Progress,2024-03-15
-I,Transportation Facility Construction,14,6,2.0,0.3,2.3,2.32,15,['E'],14,2024-03-01,2024-03-15,In Progress,2024-03-15
-J,Solar Panel Site Selection,42,1,0.01,0.002,0.012,0.014,5,['B'],42,2024-03-01,2024-04-12,In Progress,2024-03-15
-K,Solar Panel Installation,31,6,5.0,0.75,5.75,5.79,20,"['J', 'F']",31,2024-03-01,2024-04-01,In Progress,2024-03-15
-L,Inverter and Wiring Setup,24,3,0.1,0.015,0.115,0.125,10,['K'],24,2024-03-01,2024-03-25,In Progress,2024-03-15
-M,Battery Storage Integration,35,3,0.1,0.015,0.115,0.125,10,['L'],35,2024-03-01,2024-04-05,In Progress,2024-03-15
-N,Grid Connection,9,1,0.05,0.0075,0.0575,0.0625,5,['M'],9,2024-03-01,2024-03-10,In Progress,2024-03-15
-O,Water Treatment Plant Design,21,3,0.08,0.012,0.092,0.102,8,['D'],21,2024-03-01,2024-03-22,In Progress,2024-03-15
-P,Water Intake System,14,3,0.1,0.015,0.115,0.125,10,['O'],14,2024-03-01,2024-03-15,In Progress,2024-03-15
-Q,Pre-Treatment Installation,14,3,0.1,0.015,0.115,0.125,10,['P'],14,2024-03-01,2024-03-15,In Progress,2024-03-15
-R,Reverse Osmosis System,21,4,0.15,0.0225,0.1725,0.2025,15,['Q'],21,2024-03-01,2024-03-22,In Progress,2024-03-15
-S,Post-Treatment and Storage,14,3,0.1,0.015,0.115,0.125,10,['R'],14,2024-03-01,2024-03-15,In Progress,2024-03-15
-T,Distribution Network,21,3,0.15,0.0225,0.1725,0.1825,15,"['S', 'G']",21,2024-03-01,2024-03-22,In Progress,2024-03-15
-U,System Integration,3,3,0.2,0.03,0.23,0.25,20,"['N', 'T', 'I']",3,2024-03-01,2024-03-04,In Progress,2024-03-15
-V,Initial Testing (Energy),28,1,0.01,0.002,0.012,0.014,5,['N'],28,2024-03-01,2024-03-29,In Progress,2024-03-15
-W,Initial Testing (Water),28,1,0.01,0.002,0.012,0.014,5,['T'],28,2024-03-01,2024-03-29,In Progress,2024-03-15
-X,Transportation Testing,21,1,0.01,0.002,0.012,0.014,5,"['I', 'U']",21,2024-03-01,2024-03-22,In Progress,2024-03-15
-Y,Ecosystem Validation,28,3,0.1,0.015,0.115,0.125,10,"['T', 'H']",28,2024-03-01,2024-03-29,In Progress,2024-03-15
-Z,Landscaping and Aesthetics,21,3,0.15,0.0225,0.1725,0.1825,15,"['G', 'Y']",21,2024-03-01,2024-03-22,In Progress,2024-03-15
-AA,Safety and Accessibility,7,1,0.01,0.002,0.012,0.014,5,"['F', 'I', 'Z']",7,2024-03-01,2024-03-08,In Progress,2024-03-15
-AB,Final Inspections,7,1,0.01,0.002,0.012,0.014,5,"['U', 'V', 'W', 'X', 'AA']",7,2024-03-01,2024-03-08,In Progress,2024-03-15
-AC,Commissioning,7,1,0.01,0.002,0.012,0.014,5,['AB'],7,2024-03-01,2024-03-08,In Progress,2024-03-15
-AD,Maintenance Plan,14,1,0.01,0.002,0.012,0.014,5,['AC'],14,2024-03-01,2024-03-15,In Progress,2024-03-15
+A,Site Assessment,24,1,0.02,0.003,0.023,0.025,5,[],24,2024-01-01,2024-01-25,Completed,2024-02-25
+B,Master Plan Development,38,3,0.1,0.015,0.115,0.125,10,['A'],38,2024-01-01,2024-02-08,Completed,2024-02-25
+C,Energy/Water Demand Estimation,21,1,0.01,0.002,0.012,0.014,5,['B'],21,2024-01-01,2024-01-22,Completed,2024-02-25
+D,Feasibility Study,30,2,0.08,0.012,0.092,0.102,8,['B'],30,2024-01-01,2024-01-31,In Progress,2024-02-25
+E,Excavation and Earthworks,31,3,0.2,0.03,0.23,0.25,20,['D'],31,2024-01-01,2024-02-01,In Progress,2024-02-25
+F,Building Construction,154,20,500.0,75.0,575.0,575.2,50,['E'],154,2024-01-01,2024-06-03,In Progress,2024-02-25
+G,River and Lake Installation,70,5,1.75,0.26,2.01,2.03,15,['E'],70,2024-01-01,2024-03-11,In Progress,2024-02-25
+H,Vertical Garden Setup,84,6,1.0,0.15,1.15,1.17,10,['F'],84,2024-01-01,2024-03-25,In Progress,2024-02-25
+I,Transportation Facility Construction,14,6,2.0,0.3,2.3,2.32,15,['E'],14,2024-01-01,2024-01-15,In Progress,2024-02-25
+J,Solar Panel Site Selection,42,1,0.01,0.002,0.012,0.014,5,['B'],42,2024-01-01,2024-02-12,In Progress,2024-02-25
+K,Solar Panel Installation,31,6,5.0,0.75,5.75,5.79,20,"['J', 'F']",31,2024-01-01,2024-02-01,In Progress,2024-02-25
+L,Inverter and Wiring Setup,24,3,0.1,0.015,0.115,0.125,10,['K'],24,2024-01-01,2024-01-25,In Progress,2024-02-25
+M,Battery Storage Integration,35,3,0.1,0.015,0.115,0.125,10,['L'],35,2024-01-01,2024-02-05,In Progress,2024-02-25
+N,Grid Connection,9,1,0.05,0.0075,0.0575,0.0625,5,['M'],9,2024-01-01,2024-01-10,In Progress,2024-02-25
+O,Water Treatment Plant Design,21,3,0.08,0.012,0.092,0.102,8,['D'],21,2024-01-01,2024-01-22,In Progress,2024-02-25
+P,Water Intake System,14,3,0.1,0.015,0.115,0.125,10,['O'],14,2024-01-01,2024-01-15,In Progress,2024-02-25
+Q,Pre-Treatment Installation,14,3,0.1,0.015,0.115,0.125,10,['P'],14,2024-01-01,2024-01-15,In Progress,2024-02-25
+R,Reverse Osmosis System,21,4,0.15,0.0225,0.1725,0.2025,15,['Q'],21,2024-01-01,2024-01-22,In Progress,2024-02-25
+S,Post-Treatment and Storage,14,3,0.1,0.015,0.115,0.125,10,['R'],14,2024-01-01,2024-01-15,In Progress,2024-02-25
+T,Distribution Network,21,3,0.15,0.0225,0.1725,0.1825,15,"['S', 'G']",21,2024-01-01,2024-01-22,In Progress,2024-02-25
+U,System Integration,3,3,0.2,0.03,0.23,0.25,20,"['N', 'T', 'I']",3,2024-01-01,2024-01-04,In Progress,2024-02-25
+V,Initial Testing (Energy),28,1,0.01,0.002,0.012,0.014,5,['N'],28,2024-01-01,2024-01-29,In Progress,2024-02-25
+W,Initial Testing (Water),28,1,0.01,0.002,0.012,0.014,5,['T'],28,2024-01-01,2024-01-29,In Progress,2024-02-25
+X,Transportation Testing,21,1,0.01,0.002,0.012,0.014,5,"['I', 'U']",21,2024-01-01,2024-01-22,In Progress,2024-02-25
+Y,Ecosystem Validation,28,3,0.1,0.015,0.115,0.125,10,"['T', 'H']",28,2024-01-01,2024-01-29,In Progress,2024-02-25
+Z,Landscaping and Aesthetics,21,3,0.15,0.0225,0.1725,0.1825,15,"['G', 'Y']",21,2024-01-01,2024-01-22,In Progress,2024-02-25
+AA,Safety and Accessibility,7,1,0.01,0.002,0.012,0.014,5,"['F', 'I', 'Z']",7,2024-01-01,2024-01-08,In Progress,2024-02-25
+AB,Final Inspections,7,1,0.01,0.002,0.012,0.014,5,"['U', 'V', 'W', 'X', 'AA']",7,2024-01-01,2024-01-08,In Progress,2024-02-25
+AC,Commissioning,7,1,0.01,0.002,0.012,0.014,5,['AB'],7,2024-01-01,2024-01-08,In Progress,2024-02-25
+AD,Maintenance Plan,14,1,0.01,0.002,0.012,0.014,5,['AC'],14,2024-01-01,2024-01-15,In Progress,2024-02-25
