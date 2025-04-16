@@ -1,31 +1,31 @@
 Activity,Description,Duration,ES,EF,LS,LF,Slack,Critical
-A,Site Assessment,2,0,2,0,2,0,Yes
-B,Master Plan Development,4,2,6,2,6,0,Yes
-C,Energy/Water/Demand Estimation,2,6,8,64,66,58,No
-D,Feasibility Study,3,6,9,6,9,0,Yes
-J,Solar Panel Site Selection,2,6,8,35,37,29,No
-O,Water Treatment Plant Design,4,9,13,25,29,16,No
-E,Excavation and Earthworks,4,9,13,9,13,0,Yes
-G,River and Lake Installation,6,13,19,41,47,28,No
-F,Building Construction,24,13,37,13,37,0,Yes
-I,Transportation Facility Construction,8,13,21,47,55,34,No
-P,Water Intake System,4,13,17,29,33,16,No
-Q,Pre-Treatment Installation,4,17,21,33,37,16,No
-R,Reverse Osmosis System,6,21,27,37,43,16,No
-S,Post-Treatment and Storage,4,27,31,43,47,16,No
-T,Distribution Network,4,31,35,47,51,16,No
-W,Initial Testing (Water),2,35,37,59,61,24,No
-K,Solar Panel Installation,8,37,45,37,45,0,Yes
-H,Vertical Garden Setup,8,37,45,43,51,6,No
-L,Inverter and Wiring Setup,4,45,49,45,49,0,Yes
-Y,Ecosystem Validation,4,45,49,51,55,6,No
-Z,Landscaping and Aesthetics,4,49,53,55,59,6,No
-M,Battery Storage Integration,4,49,53,49,53,0,Yes
-N,Grid Connection,2,53,55,53,55,0,Yes
-AA,Safety and Accessibility,2,53,55,59,61,6,No
-V,Initial Testing (Energy),2,55,57,59,61,4,No
-U,System Integration,4,55,59,55,59,0,Yes
-X,Transportation Testing,2,59,61,59,61,0,Yes
-AB,Final Inspections,2,61,63,61,63,0,Yes
-AC,Commissioning,1,63,64,63,64,0,Yes
-AD,Maintenance Plan,2,64,66,64,66,0,Yes
+A,Site Assessment,24,0,24,0,24,0,Yes
+B,Master Plan Development,38,24,62,24,62,0,Yes
+C,Energy/Water Demand Estimation,21,62,83,424,445,362,No
+D,Feasibility Study,30,62,92,62,92,0,Yes
+J,Solar Panel Site Selection,42,62,104,248,290,186,No
+O,Water Treatment Plant Design,21,92,113,256,277,164,No
+E,Excavation and Earthworks,31,92,123,92,123,0,Yes
+P,Water Intake System,14,113,127,277,291,164,No
+G,River and Lake Installation,70,123,193,270,340,147,No
+F,Building Construction,154,123,277,123,277,0,Yes
+I,Transportation Facility Construction,14,123,137,379,393,256,No
+Q,Pre-Treatment Installation,14,127,141,291,305,164,No
+R,Reverse Osmosis System,21,141,162,305,326,164,No
+S,Post-Treatment and Storage,14,162,176,326,340,164,No
+T,Distribution Network,21,193,214,340,361,147,No
+W,Initial Testing (Water),28,214,242,389,417,175,No
+K,Solar Panel Installation,31,277,308,290,321,13,No
+H,Vertical Garden Setup,84,277,361,277,361,0,Yes
+L,Inverter and Wiring Setup,24,308,332,321,345,13,No
+M,Battery Storage Integration,35,332,367,345,380,13,No
+Y,Ecosystem Validation,28,361,389,361,389,0,Yes
+N,Grid Connection,9,367,376,380,389,13,No
+V,Initial Testing (Energy),28,376,404,389,417,13,No
+U,System Integration,3,376,379,393,396,17,No
+X,Transportation Testing,21,379,400,396,417,17,No
+Z,Landscaping and Aesthetics,21,389,410,389,410,0,Yes
+AA,Safety and Accessibility,7,410,417,410,417,0,Yes
+AB,Final Inspections,7,417,424,417,424,0,Yes
+AC,Commissioning,7,424,431,424,431,0,Yes
+AD,Maintenance Plan,14,431,445,431,445,0,Yes

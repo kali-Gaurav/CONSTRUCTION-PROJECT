@@ -5,11 +5,11 @@ C,Energy/Water Demand Estimation,21,1,0.01,0.002,0.012,0.014,5,['B'],21,2024-03-
 D,Feasibility Study,30,2,0.08,0.012,0.092,0.102,8,['B'],30,2024-03-01,2024-03-31,Completed,2024-04-30
 E,Excavation and Earthworks,31,3,0.2,0.03,0.23,0.25,20,['D'],31,2024-03-01,2024-04-01,Completed,2024-04-30
 F,Building Construction,154,20,500.0,75.0,575.0,575.2,50,['E'],154,2024-03-01,2024-08-02,Completed,2024-04-30
-G,River and Lake Installation,70,5,1.75,0.26,2.01,2.03,15,['E'],70,2024-03-01,2024-05-10,Completed,2024-04-30
-H,Vertical Garden Setup,84,6,1.0,0.15,1.15,1.17,10,['F'],84,2024-03-01,2024-05-24,Completed,2024-04-30
-I,Transportation Facility Construction,14,6,2.0,0.3,2.3,2.32,15,['E'],14,2024-03-01,2024-03-15,Completed,2024-04-30
-J,Solar Panel Site Selection,42,1,0.01,0.002,0.012,0.014,5,['B'],42,2024-03-01,2024-04-12,Completed,2024-04-30
-K,Solar Panel Installation,31,6,5.0,0.75,5.75,5.79,20,"['J', 'F']",31,2024-03-01,2024-04-01,Completed,2024-04-30
+G,River and Lake Installation,70,5,1.75,0.26,2.01,2.03,15,['E'],70,2024-03-01,2024-05-10,In Progress,2024-04-30
+H,Vertical Garden Setup,84,6,1.0,0.15,1.15,1.17,10,['F'],84,2024-03-01,2024-05-24,In Progress,2024-04-30
+I,Transportation Facility Construction,14,6,2.0,0.3,2.3,2.32,15,['E'],14,2024-03-01,2024-03-15,In Progress,2024-04-30
+J,Solar Panel Site Selection,42,1,0.01,0.002,0.012,0.014,5,['B'],42,2024-03-01,2024-04-12,In Progress,2024-04-30
+K,Solar Panel Installation,31,6,5.0,0.75,5.75,5.79,20,"['J', 'F']",31,2024-03-01,2024-04-01,In Progress,2024-04-30
 L,Inverter and Wiring Setup,24,3,0.1,0.015,0.115,0.125,10,['K'],24,2024-03-01,2024-03-25,In Progress,2024-04-30
 M,Battery Storage Integration,35,3,0.1,0.015,0.115,0.125,10,['L'],35,2024-03-01,2024-04-05,In Progress,2024-04-30
 N,Grid Connection,9,1,0.05,0.0075,0.0575,0.0625,5,['M'],9,2024-03-01,2024-03-10,In Progress,2024-04-30
