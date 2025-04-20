@@ -1,20 +1,20 @@
 Activity ID,Activity Name,Normal Duration (Days),Crash Duration (Days),Direct Costs ($M),Overhead/Indirect Costs ($M),Normal Cost ($M),Crash Cost ($M),Resource Demand (Workers),depends,Status,Update Date,early_start,early_finish,duration_days
-A,Site Assessment,24,14,0.02,0.003,0.023,0.025,5,[],Completed,2024-09-30,2024-01-01,2024-01-25,24
-B,Master Plan Development,38,28,0.1,0.015,0.115,0.125,10,['A'],Completed,2024-09-30,,,38
-C,Energy/Water Demand Estimation,21,14,0.01,0.002,0.012,0.014,5,['B'],Completed,2024-09-30,,,21
-D,Feasibility Study,30,21,0.08,0.012,0.092,0.102,8,['B'],Completed,2024-09-30,,,30
-E,Excavation and Earthworks,31,24,0.2,0.03,0.23,0.25,20,['D'],Completed,2024-09-30,,,31
-F,Building Construction,154,140,500.0,75.0,575.0,575.2,50,['E'],Completed,2024-09-30,,,154
-G,River and Lake Installation,70,56,1.75,0.26,2.01,2.03,15,['E'],Started,2024-09-30,,,70
-H,Vertical Garden Setup,84,70,1.0,0.15,1.15,1.17,10,['F'],Started,2024-09-30,,,84
+A,Site Assessment,24,14,0.02,0.003,0.023,0.025,5,[],Completed,2024-09-30,2024-09-06,2024-09-30,24
+B,Master Plan Development,38,28,0.1,0.015,0.115,0.125,10,['A'],Completed,2024-09-30,2024-08-23,2024-09-30,38
+C,Energy/Water Demand Estimation,21,14,0.01,0.002,0.012,0.014,5,['B'],Completed,2024-09-30,2024-09-09,2024-09-30,21
+D,Feasibility Study,30,21,0.08,0.012,0.092,0.102,8,['B'],Completed,2024-09-30,2024-08-31,2024-09-30,30
+E,Excavation and Earthworks,31,24,0.2,0.03,0.23,0.25,20,['D'],Completed,2024-09-30,2024-08-30,2024-09-30,31
+F,Building Construction,154,140,500.0,75.0,575.0,575.2,50,['E'],Completed,2024-09-30,2024-04-29,2024-09-30,154
+G,River and Lake Installation,70,56,1.75,0.26,2.01,2.03,15,['E'],Started,2024-09-30,2024-09-30,2024-12-09,70
+H,Vertical Garden Setup,84,70,1.0,0.15,1.15,1.17,10,['F'],Started,2024-09-30,2024-09-30,2024-12-23,84
 I,Transportation Facility Construction,14,10,2.0,0.3,2.3,2.32,15,['E'],Not Started,2024-09-30,,,14
-J,Solar Panel Site Selection,42,35,0.01,0.002,0.012,0.014,5,['B'],Completed,2024-09-30,,,42
-K,Solar Panel Installation,31,24,5.0,0.75,5.75,5.79,20,"['J', 'F']",Started,2024-09-30,,,31
+J,Solar Panel Site Selection,42,35,0.01,0.002,0.012,0.014,5,['B'],Completed,2024-09-30,2024-08-19,2024-09-30,42
+K,Solar Panel Installation,31,24,5.0,0.75,5.75,5.79,20,"['J', 'F']",Started,2024-09-30,2024-09-30,2024-10-31,31
 L,Inverter and Wiring Setup,24,14,0.1,0.015,0.115,0.125,10,['K'],Not Started,2024-09-30,,,24
 M,Battery Storage Integration,35,28,0.1,0.015,0.115,0.125,10,['L'],Not Started,2024-09-30,,,35
 N,Grid Connection,9,7,0.05,0.0075,0.0575,0.0625,5,['M'],Not Started,2024-09-30,,,9
 O,Water Treatment Plant Design,21,14,0.08,0.012,0.092,0.102,8,['D'],Not Started,2024-09-30,,,21
-P,Water Intake System,14,10,0.1,0.015,0.115,0.125,10,['O'],Started,2024-09-30,,,14
+P,Water Intake System,14,10,0.1,0.015,0.115,0.125,10,['O'],Started,2024-09-30,2024-09-30,2024-10-14,14
 Q,Pre-Treatment Installation,14,10,0.1,0.015,0.115,0.125,10,['P'],Not Started,2024-09-30,,,14
 R,Reverse Osmosis System,21,14,0.15,0.0225,0.1725,0.2025,15,['Q'],Not Started,2024-09-30,,,21
 S,Post-Treatment and Storage,14,10,0.1,0.015,0.115,0.125,10,['R'],Not Started,2024-09-30,,,14
