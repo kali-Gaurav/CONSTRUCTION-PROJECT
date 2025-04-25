@@ -7,8 +7,8 @@ E,Excavation and Earthworks,31,24,0.2,0.03,0.23,0.25,20,['D'],2857.14,Completed,
 F,Building Construction,154,140,500.0,75.0,575.0,575.2,50,['E'],14285.71,Completed,2024-09-30,2024-04-26,2024-09-13,140
 G,River and Lake Installation,70,56,1.75,0.26,2.01,2.03,15,['E'],1428.57,Started,2024-09-30,2024-04-26,2024-07-05,70
 H,Vertical Garden Setup,84,70,1.0,0.15,1.15,1.17,10,['F'],1428.57,Started,2024-09-30,2024-09-13,2024-11-22,70
-I,Transportation Facility Construction,14,10,2.0,0.3,2.3,2.32,15,['E'],5000.0,Started,2024-09-30,2024-04-26,2024-05-10,14
-J,Solar Panel Site Selection,42,35,0.01,0.002,0.012,0.014,5,['B'],285.71,Completed,2024-09-30,2024-03-03,2024-04-14,42
+I,Transportation Facility Construction,42,35,2.0,0.3,2.3,2.32,15,['E'],2857.14,Started,2024-09-30,2024-04-26,2024-06-07,42
+J,Solar Panel Site Selection,14,10,0.01,0.002,0.012,0.014,5,['B'],500.0,Completed,2024-09-30,2024-03-03,2024-03-17,14
 K,Solar Panel Installation,31,24,5.0,0.75,5.75,5.79,20,"['J', 'F']",5714.29,Started,2024-09-30,2024-09-13,2024-10-14,31
 L,Inverter and Wiring Setup,24,14,0.1,0.015,0.115,0.125,10,['K'],1000.0,Not Started,2024-09-30,2024-10-14,2024-10-28,14
 M,Battery Storage Integration,35,28,0.1,0.015,0.115,0.125,10,['L'],1428.57,Not Started,2024-09-30,2024-10-28,2024-12-02,35

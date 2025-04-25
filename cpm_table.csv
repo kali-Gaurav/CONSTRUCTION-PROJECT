@@ -3,13 +3,13 @@ A,Site Assessment,24,0,24,0,24,0,Yes
 B,Master Plan Development,38,24,62,24,62,0,Yes
 C,Energy/Water Demand Estimation,21,62,83,424,445,362,No
 D,Feasibility Study,30,62,92,62,92,0,Yes
-J,Solar Panel Site Selection,42,62,104,248,290,186,No
+J,Solar Panel Site Selection,14,62,76,276,290,214,No
 O,Water Treatment Plant Design,21,92,113,256,277,164,No
 E,Excavation and Earthworks,31,92,123,92,123,0,Yes
 P,Water Intake System,14,113,127,277,291,164,No
 G,River and Lake Installation,70,123,193,270,340,147,No
 F,Building Construction,154,123,277,123,277,0,Yes
-I,Transportation Facility Construction,14,123,137,377,391,254,No
+I,Transportation Facility Construction,42,123,165,349,391,226,No
 Q,Pre-Treatment Installation,14,127,141,291,305,164,No
 R,Reverse Osmosis System,21,141,162,305,326,164,No
 S,Post-Treatment and Storage,14,162,176,326,340,164,No
