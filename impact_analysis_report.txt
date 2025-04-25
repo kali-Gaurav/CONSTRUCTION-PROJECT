@@ -1,0 +1,61 @@
+
+=== Impact Analysis for 2024-04-15 ===
+
+1. Schedule Impact:
+   - Current Project Duration: 450 days
+   - Target Duration: 365 days
+   - Project is delayed by 85 days.
+   - Activity F (5-day delay) is on the critical path: A, B, D, E, F, H, Y, Z, AA, AB, AC, AD
+   - The 5-day delay in activity F directly contributes to the project delay.
+   - Schedule Variance (SV): $-0.00M (behind schedule)
+   - Schedule Performance Index (SPI): 0.41 (behind schedule)
+
+2. Cost Impact:
+   - Cost Variance (CV): $0.02M (under budget)
+   - Cost Performance Index (CPI): 0.41 (over budget)
+
+3. Resource Utilization:
+   - Maximum resource usage: 36 workers
+   - Resource limit: 100 workers
+   - No resource over-allocation detected.
+
+4. Recommendations:
+   - Schedule Recovery:
+     - Accelerate critical path activities (e.g., G, K) within budget ($586M).
+     - Reassess completion percentages (e.g., G: 50%, K: 40%) for accuracy.
+   - Cost Control:
+     - Investigate high actual costs (e.g., K: $3M, G: $1.6M) and compare with planned costs.
+     - Optimize resource allocation to reduce overhead costs.
+
+
+=== Impact Analysis for 2024-09-30 ===
+
+1. Schedule Impact:
+   - Current Project Duration: 450 days
+   - Target Duration: 365 days
+   - Project is delayed by 85 days.
+   - Activity F (5-day delay) is on the critical path: A, B, D, E, F, H, Y, Z, AA, AB, AC, AD
+   - The 5-day delay in activity F directly contributes to the project delay.
+   - Schedule Variance (SV): $-4.88M (behind schedule)
+   - Schedule Performance Index (SPI): 0.99 (behind schedule)
+
+2. Cost Impact:
+   - Cost Variance (CV): $-15.27M (over budget)
+   - Cost Performance Index (CPI): 0.97 (over budget)
+   - Key activities contributing to cost overrun:
+     - Activity G: EV $1.00M, AC $1.60M, 50.0% complete
+     - Activity H: EV $0.34M, AC $0.60M, 30.0% complete
+     - Activity K: EV $2.30M, AC $3.00M, 40.0% complete
+
+3. Resource Utilization:
+   - Maximum resource usage: 100 workers
+   - Resource limit: 100 workers
+   - No resource over-allocation detected.
+
+4. Recommendations:
+   - Schedule Recovery:
+     - Accelerate critical path activities (e.g., G, K) within budget ($586M).
+     - Reassess completion percentages (e.g., G: 50%, K: 40%) for accuracy.
+   - Cost Control:
+     - Investigate high actual costs (e.g., K: $3M, G: $1.6M) and compare with planned costs.
+     - Optimize resource allocation to reduce overhead costs.
