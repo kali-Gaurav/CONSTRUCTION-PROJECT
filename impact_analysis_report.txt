@@ -2,22 +2,17 @@
 === Impact Analysis for 2024-04-15 ===
 
 1. Schedule Impact:
-   - Current Project Duration: 445 days
-   - Target Duration: 420.0 days
-   - Project is delayed by 25.0 days.
+   - Current Project Duration: 450 days
+   - Target Duration: 417 days
+   - Project is delayed by 33 days.
    - Activity F (5-day delay) is on the critical path: A, B, D, E, F, H, Y, Z, AA, AB, AC, AD
    - The 5-day delay in activity F directly contributes to the project delay.
    - Schedule Variance (SV): $-0.00M (behind schedule)
-   - Schedule Performance Index (SPI): 0.41 (behind schedule)
+   - Schedule Performance Index (SPI): 1.00 (behind schedule)
 
 2. Cost Impact:
    - Cost Variance (CV): $-3.31M (over budget)
-   - Cost Performance Index (CPI): 0.41 (over budget)
-   - Key activities contributing to cost overrun:
-     - Activity C: EV $0.01M, AC $0.15M, 100.0% complete
-     - Activity D: EV $0.09M, AC $1.00M, 100.0% complete
-     - Activity E: EV $0.16M, AC $2.30M, 70.0% complete
-     - Activity J: EV $0.00M, AC $0.12M, 20.0% complete
+   - Cost Performance Index (CPI): 0.11 (over budget)
 
 3. Resource Utilization:
    - Maximum resource usage: 36 workers
@@ -25,47 +20,30 @@
    - No resource over-allocation detected.
 
 4. Recommendations:
-   - Schedule Recovery:
-     - Accelerate critical path activities (e.g., G, K) within budget ($586M).
-     - Reassess completion percentages (e.g., G: 50%, K: 40%) for accuracy.
-   - Cost Control:
-     - Investigate high actual costs (e.g., K: $3M, G: $1.6M) and compare with planned costs.
-     - Optimize resource allocation to reduce overhead costs.
+   - Schedule Recovery: Accelerate critical path activities within budget.
+   - Cost Control: Investigate high actual costs and optimize resources.
 
 
 === Impact Analysis for 2024-09-30 ===
 
 1. Schedule Impact:
    - Current Project Duration: 450 days
-   - Target Duration: 425.0 days
-   - Project is delayed by 25.0 days.
+   - Target Duration: 417 days
+   - Project is delayed by 33 days.
    - Activity F (5-day delay) is on the critical path: A, B, D, E, F, H, Y, Z, AA, AB, AC, AD
    - The 5-day delay in activity F directly contributes to the project delay.
-   - Schedule Variance (SV): $-4.88M (behind schedule)
-   - Schedule Performance Index (SPI): 0.99 (behind schedule)
+   - Schedule Variance (SV): $31.11M (ahead schedule)
+   - Schedule Performance Index (SPI): 1.06 (ahead schedule)
 
 2. Cost Impact:
-   - Cost Variance (CV): $-15.27M (over budget)
-   - Cost Performance Index (CPI): 0.97 (over budget)
-   - Key activities contributing to cost overrun:
-     - Activity C: EV $0.01M, AC $0.15M, 100.0% complete
-     - Activity D: EV $0.09M, AC $1.00M, 100.0% complete
-     - Activity E: EV $0.23M, AC $2.30M, 100.0% complete
-     - Activity F: EV $575.00M, AC $580.00M, 100.0% complete
-     - Activity J: EV $0.01M, AC $0.12M, 100.0% complete
-     - Activity G: EV $1.00M, AC $1.60M, 50.0% complete
-     - Activity H: EV $0.34M, AC $6.00M, 30.0% complete
-     - Activity K: EV $2.30M, AC $3.00M, 40.0% complete
+   - Cost Variance (CV): $-8.26M (over budget)
+   - Cost Performance Index (CPI): 0.99 (over budget)
 
 3. Resource Utilization:
-   - Maximum resource usage: 100 workers
+   - Maximum resource usage: 110 workers
    - Resource limit: 100 workers
-   - No resource over-allocation detected.
+   - Over-allocation detected on 1 days.
 
 4. Recommendations:
-   - Schedule Recovery:
-     - Accelerate critical path activities (e.g., G, K) within budget ($586M).
-     - Reassess completion percentages (e.g., G: 50%, K: 40%) for accuracy.
-   - Cost Control:
-     - Investigate high actual costs (e.g., K: $3M, G: $1.6M) and compare with planned costs.
-     - Optimize resource allocation to reduce overhead costs.
+   - Cost Control: Investigate high actual costs and optimize resources.
+   - Resource Management: Reallocate workers to avoid over-allocation.
