@@ -2,17 +2,22 @@
 === Impact Analysis for 2024-04-15 ===
 
 1. Schedule Impact:
-   - Current Project Duration: 450 days
-   - Target Duration: 365 days
-   - Project is delayed by 85 days.
+   - Current Project Duration: 445 days
+   - Target Duration: 427.0 days
+   - Project is delayed by 18.0 days.
    - Activity F (5-day delay) is on the critical path: A, B, D, E, F, H, Y, Z, AA, AB, AC, AD
    - The 5-day delay in activity F directly contributes to the project delay.
    - Schedule Variance (SV): $-0.00M (behind schedule)
    - Schedule Performance Index (SPI): 0.41 (behind schedule)
 
 2. Cost Impact:
-   - Cost Variance (CV): $0.02M (under budget)
+   - Cost Variance (CV): $-3.31M (over budget)
    - Cost Performance Index (CPI): 0.41 (over budget)
+   - Key activities contributing to cost overrun:
+     - Activity C: EV $0.01M, AC $0.15M, 100.0% complete
+     - Activity D: EV $0.09M, AC $1.00M, 100.0% complete
+     - Activity E: EV $0.16M, AC $2.30M, 70.0% complete
+     - Activity J: EV $0.00M, AC $0.12M, 20.0% complete
 
 3. Resource Utilization:
    - Maximum resource usage: 36 workers
@@ -31,9 +36,9 @@
 === Impact Analysis for 2024-09-30 ===
 
 1. Schedule Impact:
-   - Current Project Duration: 450 days
-   - Target Duration: 365 days
-   - Project is delayed by 85 days.
+   - Current Project Duration: 445 days
+   - Target Duration: 427.0 days
+   - Project is delayed by 18.0 days.
    - Activity F (5-day delay) is on the critical path: A, B, D, E, F, H, Y, Z, AA, AB, AC, AD
    - The 5-day delay in activity F directly contributes to the project delay.
    - Schedule Variance (SV): $-4.88M (behind schedule)
@@ -43,8 +48,13 @@
    - Cost Variance (CV): $-15.27M (over budget)
    - Cost Performance Index (CPI): 0.97 (over budget)
    - Key activities contributing to cost overrun:
+     - Activity C: EV $0.01M, AC $0.15M, 100.0% complete
+     - Activity D: EV $0.09M, AC $1.00M, 100.0% complete
+     - Activity E: EV $0.23M, AC $2.30M, 100.0% complete
+     - Activity F: EV $575.00M, AC $580.00M, 100.0% complete
+     - Activity J: EV $0.01M, AC $0.12M, 100.0% complete
      - Activity G: EV $1.00M, AC $1.60M, 50.0% complete
-     - Activity H: EV $0.34M, AC $0.60M, 30.0% complete
+     - Activity H: EV $0.34M, AC $6.00M, 30.0% complete
      - Activity K: EV $2.30M, AC $3.00M, 40.0% complete
 
 3. Resource Utilization:
