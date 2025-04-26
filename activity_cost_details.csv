@@ -1,31 +1,31 @@
-Activity ID,Activity Name,Normal Duration (Days),Crash Duration (Days),Direct Costs ($M),Overhead/Indirect Costs ($M),Normal Cost ($M),Crash Cost ($M),Resource Demand (Workers),depends,Crash Slope ($/Day)
-A,Site Assessment,24,14,0.02,0.003,0.023,0.025,5,[],200.0
-B,Master Plan Development,38,28,0.1,0.015,0.115,0.125,10,['A'],1000.0
-C,Energy/Water Demand Estimation,21,14,0.01,0.002,0.012,0.014,5,['B'],285.71
-D,Feasibility Study,30,21,0.08,0.012,0.092,0.102,8,['B'],1111.11
-E,Excavation and Earthworks,31,24,0.2,0.03,0.23,0.25,20,['D'],2857.14
-F,Building Construction,154,140,500.0,75.0,575.0,575.2,50,['E'],14285.71
-G,River and Lake Installation,70,56,1.75,0.26,2.01,2.03,15,['E'],1428.57
-H,Vertical Garden Setup,84,70,1.0,0.15,1.15,1.17,10,['F'],1428.57
-I,Transportation Facility Construction,42,35,2.0,0.3,2.3,2.32,15,['E'],2857.14
-J,Solar Panel Site Selection,14,10,0.01,0.002,0.012,0.014,5,['B'],500.0
-K,Solar Panel Installation,31,24,5.0,0.75,5.75,5.79,20,"['J', 'F']",5714.29
-L,Inverter and Wiring Setup,24,14,0.1,0.015,0.115,0.125,10,['K'],1000.0
-M,Battery Storage Integration,35,28,0.1,0.015,0.115,0.125,10,['L'],1428.57
-N,Grid Connection,9,7,0.05,0.0075,0.0575,0.0625,5,['M'],2500.0
-O,Water Treatment Plant Design,21,14,0.08,0.012,0.092,0.102,8,['D'],1428.57
-P,Water Intake System,14,10,0.1,0.015,0.115,0.125,10,['O'],2500.0
-Q,Pre-Treatment Installation,14,10,0.1,0.015,0.115,0.125,10,['P'],2500.0
-R,Reverse Osmosis System,21,14,0.15,0.0225,0.1725,0.2025,15,['Q'],4285.71
-S,Post-Treatment and Storage,14,10,0.1,0.015,0.115,0.125,10,['R'],2500.0
-T,Distribution Network,21,17,0.15,0.0225,0.1725,0.1825,15,"['S', 'G']",2500.0
-U,System Integration,3,3,0.2,0.03,0.23,0.25,20,"['N', 'T', 'I']",inf
-V,Initial Testing (Energy),28,21,0.01,0.002,0.012,0.014,5,['N'],285.71
-W,Initial Testing (Water),28,21,0.01,0.002,0.012,0.014,5,['T'],285.71
-X,Transportation Testing,21,17,0.01,0.002,0.012,0.014,5,"['I', 'U']",500.0
-Y,Ecosystem Validation,28,24,0.1,0.015,0.115,0.125,10,"['T', 'H']",2500.0
-Z,Landscaping and Aesthetics,21,14,0.15,0.0225,0.1725,0.1825,15,"['G', 'Y']",1428.57
-AA,Safety and Accessibility,7,5,0.01,0.002,0.012,0.014,5,"['F', 'I', 'Z']",1000.0
-AB,Final Inspections,7,6,0.01,0.002,0.012,0.014,5,"['U', 'V', 'W', 'X', 'AA']",2000.0
-AC,Commissioning,7,6,0.01,0.002,0.012,0.014,5,['AB'],2000.0
-AD,Maintenance Plan,14,12,0.01,0.002,0.012,0.014,5,['AC'],1000.0
+Activity ID,Activity Name,Normal Duration (Days),Crash Duration (Days),Direct Costs ($M),Overhead/Indirect Costs ($M),Normal Cost ($M),Crash Cost ($M),Resource Demand (Workers),depends
+A,Site Assessment,24,14,0.02,0.003,0.023,0.025,5,[]
+B,Master Plan Development,38,28,0.1,0.015,0.115,0.125,10,['A']
+C,Energy/Water Demand Estimation,21,14,0.01,0.002,0.012,0.014,5,['B']
+D,Feasibility Study,30,21,0.08,0.012,0.092,0.102,8,['B']
+E,Excavation and Earthworks,31,24,0.2,0.03,0.23,0.25,20,['D']
+F,Building Construction,154,140,500.0,75.0,575.0,575.2,50,['E']
+G,River and Lake Installation,70,56,1.75,0.26,2.01,2.03,15,['E']
+H,Vertical Garden Setup,84,70,1.0,0.15,1.15,1.17,10,['F']
+I,Transportation Facility Construction,42,35,2.0,0.3,2.3,2.32,15,['E']
+J,Solar Panel Site Selection,14,10,0.01,0.002,0.012,0.014,5,['B']
+K,Solar Panel Installation,31,24,5.0,0.75,5.75,5.79,20,"['J', 'F']"
+L,Inverter and Wiring Setup,24,14,0.1,0.015,0.115,0.125,10,['K']
+M,Battery Storage Integration,35,28,0.1,0.015,0.115,0.125,10,['L']
+N,Grid Connection,9,7,0.05,0.0075,0.0575,0.0625,5,['M']
+O,Water Treatment Plant Design,21,14,0.08,0.012,0.092,0.102,8,['D']
+P,Water Intake System,14,10,0.1,0.015,0.115,0.125,10,['O']
+Q,Pre-Treatment Installation,14,10,0.1,0.015,0.115,0.125,10,['P']
+R,Reverse Osmosis System,21,14,0.15,0.0225,0.1725,0.2025,15,['Q']
+S,Post-Treatment and Storage,14,10,0.1,0.015,0.115,0.125,10,['R']
+T,Distribution Network,21,17,0.15,0.0225,0.1725,0.1825,15,"['S', 'G']"
+U,System Integration,3,3,0.2,0.03,0.23,0.25,20,"['N', 'T', 'I']"
+V,Initial Testing (Energy),28,21,0.01,0.002,0.012,0.014,5,['N']
+W,Initial Testing (Water),28,21,0.01,0.002,0.012,0.014,5,['T']
+X,Transportation Testing,21,17,0.01,0.002,0.012,0.014,5,"['I', 'U']"
+Y,Ecosystem Validation,28,24,0.1,0.015,0.115,0.125,10,"['T', 'H']"
+Z,Landscaping and Aesthetics,21,14,0.15,0.0225,0.1725,0.1825,15,"['G', 'Y']"
+AA,Safety and Accessibility,7,5,0.01,0.002,0.012,0.014,5,"['F', 'I', 'Z']"
+AB,Final Inspections,7,6,0.01,0.002,0.012,0.014,5,"['U', 'V', 'W', 'X', 'AA']"
+AC,Commissioning,7,6,0.01,0.002,0.012,0.014,5,['AB']
+AD,Maintenance Plan,14,12,0.01,0.002,0.012,0.014,5,['AC']
