@@ -1,7 +1,7 @@
 Activity ID,Activity Name,Normal Duration (Days),Crash Duration (Days),Direct Costs ($M),Overhead/Indirect Costs ($M),Normal Cost ($M),Crash Cost ($M),Resource Demand (Workers),depends,Crash Slope ($/Day),Status,Update Date,early_start,early_finish,duration_days
 A,Site Assessment,24,14,0.02,0.003,0.023,0.025,5,[],200.0,Completed,2024-04-15,2024-01-01,2024-01-25,24
 B,Master Plan Development,38,28,0.1,0.015,0.115,0.125,10,['A'],1000.0,Completed,2024-04-15,2024-01-25,2024-03-03,38
-C,Energy/Water Demand Estimation,21,14,0.01,0.002,0.012,0.014,5,['B'],285.71,Completed,2024-04-15,2024-03-03,2024-03-24,21
+C,Energy/Water Demand Estimation,21,14,0.01,0.002,0.012,0.014,5,['B'],285.71,Completed,2024-04-15,2024-03-03,2024-03-27,24
 D,Feasibility Study,30,21,0.08,0.012,0.092,0.102,8,['B'],1111.11,Completed,2024-04-15,2024-03-03,2024-04-02,30
 E,Excavation and Earthworks,31,24,0.2,0.03,0.23,0.25,20,['D'],2857.14,Started,2024-04-15,2024-04-02,2024-05-03,31
 F,Building Construction,154,140,500.0,75.0,575.0,575.2,50,['E'],14285.71,Not Started,2024-04-15,2024-05-03,2024-10-04,154

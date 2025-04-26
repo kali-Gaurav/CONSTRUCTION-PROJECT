@@ -3,8 +3,8 @@
 
 1. Schedule Impact:
    - Current Project Duration: 445 days
-   - Target Duration: 427.0 days
-   - Project is delayed by 18.0 days.
+   - Target Duration: 420.0 days
+   - Project is delayed by 25.0 days.
    - Activity F (5-day delay) is on the critical path: A, B, D, E, F, H, Y, Z, AA, AB, AC, AD
    - The 5-day delay in activity F directly contributes to the project delay.
    - Schedule Variance (SV): $-0.00M (behind schedule)
@@ -36,9 +36,9 @@
 === Impact Analysis for 2024-09-30 ===
 
 1. Schedule Impact:
-   - Current Project Duration: 445 days
-   - Target Duration: 427.0 days
-   - Project is delayed by 18.0 days.
+   - Current Project Duration: 450 days
+   - Target Duration: 425.0 days
+   - Project is delayed by 25.0 days.
    - Activity F (5-day delay) is on the critical path: A, B, D, E, F, H, Y, Z, AA, AB, AC, AD
    - The 5-day delay in activity F directly contributes to the project delay.
    - Schedule Variance (SV): $-4.88M (behind schedule)
